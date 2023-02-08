@@ -1,3 +1,3 @@
 # Building referral system with Firebase
 
-Demo code for CocoaHeads meetup
+Demo code used for a presentation in CocoaHeads' meetup
